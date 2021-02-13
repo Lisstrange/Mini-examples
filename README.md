@@ -22,4 +22,4 @@
 
 [Построение рекомандательной системы плейлиста в Spotify][id4]
 
-[Изучение рекомендательных систем] https://www.amazon.com/Building-Recommender-Systems-Machine-Learning-ebook/dp/B07GCV5JCZ/ref=sr_1_3?crid=TRJ753DIOQXC&dchild=1&keywords=recommender+systems&qid=1586810902&sprefix=recommender+systems%2Caps%2C278&sr=8-3 
+[Изучение рекомендательных систем по книге Frank Kane-Building Recommender Systems]
