@@ -22,4 +22,4 @@
 
 [Построение рекомандательной системы плейлиста в Spotify][id4]
 
-[Изучение рекомендательных систем по книге Frank Kane-Building Recommender Systems]
+Изучение рекомендательных систем по книге Frank Kane-Building Recommender Systems
