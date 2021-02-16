@@ -7,7 +7,7 @@
 [id3]: https://github.com/Lisstrange/Mini-examples/blob/main/ghosts.ipynb
 [id4]: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 [id5]: amazon.com/Building-Recommender-Systems-Machine-Learning-ebook/dp/B07GCV5JCZ/ref=sr_1_3?crid=TRJ753DIOQXC&dchild=1&keywords=recommender+systems&qid=1586810902&sprefix=recommender+systems%2Caps%2C278&sr=8-3
-[id6]: kaggle.com/c/tabular-playground-series-feb-2021/overview
+[id6]: https://www.kaggle.com/c/tabular-playground-series-feb-2021/overview
 
 | № | Название ноутбука | Описание |
 | :- | :--------------------- | :---------------------------|
